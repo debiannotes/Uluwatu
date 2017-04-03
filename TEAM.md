@@ -27,6 +27,7 @@
 - [Febrian Rendak](https://github.com/febrianrendak)
 - [Hanhan](https://github.com/hahn)
 - [Abdul Jabar Hakim](https://github.com/hak11)
+- [Achmad Yusri Afandi](https://github.com/debiannotes)
 
 ## Riset
 
